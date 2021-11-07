@@ -12,6 +12,14 @@
     "nodejs",
     "javascript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cookieszz/hashtag-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cookieszz/hashtag-generator/issues"
+  },
+  "homepage": "https://github.com/cookieszz/hashtag-generator#readme",
   "author": "cookieszz",
   "license": "ISC",
   "devDependencies": {
