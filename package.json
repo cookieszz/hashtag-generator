@@ -1,5 +1,5 @@
 {
-  "name": "hashtaggenerator",
+  "name": "hashtag-generator",
   "version": "1.0.1-alpha",
   "description": "simple hashtag generator",
   "main": "index.js",
